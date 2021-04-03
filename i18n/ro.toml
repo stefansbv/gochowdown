@@ -1,0 +1,83 @@
+[yields]
+other = "Pentru"
+
+[prepTime]
+other = "Preparare"
+
+[cookTime]
+other = "Coacere"
+
+[ingredients]
+other = "Ingrediente"
+
+[directions]
+other = "Instrucțiuni"
+
+[components]
+other = "Componente"
+
+[this-is-a]
+other = "Aceasta este o"
+
+[component-based-recipe]
+other = "rețete pe baza de componente"
+
+[fancy-talk]
+other = "formulare pentru crearea unui platou din sub-rețete"
+
+[steps]
+other = "Etape"
+
+[category]
+other = "Categorie"
+
+[cuisine]
+other = "Mod de a găti"
+
+[tags]
+other = "tags"
+
+[inspired]
+other = "Inspirat"
+
+[by]
+other = "de"
+
+[from]
+other = "dela"
+
+[powered-by]
+other = "Propulsat de"
+
+[for-the-home-chef]
+other = "Pentru bucătar"
+
+[save-recipes]
+other = "Înregistrați rețeta în câteva secunde în format text brut"
+
+[create-beautiful]
+other = "Creați automat pagini magnifice cu rețete"
+
+[use-recipes]
+other = "Reutilizați rețetele voastre în orice aplicație"
+
+[our-favorite]
+other = "preferata noastră este"
+
+[share]
+other = "Partajați cu prietenii și familia"
+
+[for-the-developer]
+other = "Pentru programatori"
+
+[markdown-hugo]
+other = "Markdown + Hugo sub capotă"
+
+[recipes-stored]
+other = "Rețetele sunt stocate în format texte, gata de ... être hackées"
+
+[open-source]
+other = "Open source, totul este pe GitHub"
+
+[contribute]
+other = "contribuiți"
