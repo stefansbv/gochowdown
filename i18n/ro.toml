@@ -1,5 +1,5 @@
 [yields]
-other = "Pentru"
+other = "Porții"
 
 [prepTime]
 other = "Preparare"
@@ -20,7 +20,7 @@ other = "Componente"
 other = "Aceasta este o"
 
 [component-based-recipe]
-other = "rețete pe baza de componente"
+other = "rețetă pe baza de componente"
 
 [fancy-talk]
 other = "formulare pentru crearea unui platou din sub-rețete"
@@ -44,7 +44,7 @@ other = "Inspirat"
 other = "de"
 
 [from]
-other = "dela"
+other = "din"
 
 [powered-by]
 other = "Propulsat de"
@@ -53,7 +53,7 @@ other = "Propulsat de"
 other = "Pentru bucătar"
 
 [save-recipes]
-other = "Înregistrați rețeta în câteva secunde în format text brut"
+other = "Înregistrați rețeta în câteva secunde în format text"
 
 [create-beautiful]
 other = "Creați automat pagini magnifice cu rețete"
@@ -74,7 +74,7 @@ other = "Pentru programatori"
 other = "Markdown + Hugo sub capotă"
 
 [recipes-stored]
-other = "Rețetele sunt stocate în format texte, gata de ... être hackées"
+other = "Rețetele sunt stocate în format text, ușor de modificat"
 
 [open-source]
 other = "Open source, totul este pe GitHub"
