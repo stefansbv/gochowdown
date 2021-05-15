@@ -20,10 +20,10 @@ other = "Componente"
 other = "Aceasta este o"
 
 [component-based-recipe]
-other = "rețetă pe baza de componente"
+other = "rețetă pe bază de componente"
 
 [fancy-talk]
-other = "formulare pentru crearea unui platou din sub-rețete"
+other = "formulare pentru crearea unui preparat din sub-rețete"
 
 [steps]
 other = "Etape"
